@@ -1,0 +1,119 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: x/m11ArtWWwg5I8p/wTD6UcKPdw=
+Created-By: 1.7.0_79 (Oracle Corporation)
+SHA1-Digest-Manifest: HWqf5GlTRLndr0jmJYUt/H8H+wI=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
+
+Name: res/anim/activity_out.xml
+SHA1-Digest: pDLIRZjf6oaIl9Xvwd+iRK1iviA=
+
+Name: res/drawable/plus.png
+SHA1-Digest: oJ9+J9iBOrGfErVhQfp7pxKCwHg=
+
+Name: res/drawable/recommend.png
+SHA1-Digest: K/IhfsPu/1VWu/MfPcQ9Gpeei3o=
+
+Name: res/drawable/plusover.png
+SHA1-Digest: UufbEBzsPbu5ZiL8kG778tQ3Gu4=
+
+Name: assets/channel.ini
+SHA1-Digest: hJTX20XvBENB+deSi9GXYs2x2X0=
+
+Name: resources.arsc
+SHA1-Digest: jK/W0EetjQwIRoxtONaEhzu3hK8=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: NBFXy1maYHW4TAiVCw6R9+EBNqI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: M0QW3WynrJS+nmdRAy4RAr3PQGY=
+
+Name: res/drawable/backcolor.png
+SHA1-Digest: fs98Q5AAJX4QooH+j+wbk9M+c1s=
+
+Name: assets/close.png
+SHA1-Digest: u+Hy3SuA2Paz44MwbnmoZUtHknM=
+
+Name: res/drawable/minus.png
+SHA1-Digest: QT8SlCSm0hp0Nf8UDwUl3r3aDD4=
+
+Name: assets/channel.inii
+SHA1-Digest: KPuIBt2786YFmTyyOCBPDkjwVyE=
+
+Name: res/drawable/stopover.png
+SHA1-Digest: eGSWZo7/3t0oXnFQUyaw288Zsss=
+
+Name: res/raw/protect.apk
+SHA1-Digest: C/BEW/C2k3vYnvF7Kso5ZNsW0iI=
+
+Name: res/drawable/start.png
+SHA1-Digest: EG14TUO3EyP1rfh6eR2wCoM/PWQ=
+
+Name: assets/back44.png
+SHA1-Digest: Yyoa/WIa2NTnylxjqJS5+EVYv+M=
+
+Name: res/drawable/minusover.png
+SHA1-Digest: JicUX34PatUNer//1przrZEGj+0=
+
+Name: res/drawable/rightover.png
+SHA1-Digest: h33OKku4ptOn/bbinoiqQXt4EPM=
+
+Name: res/drawable/startover.png
+SHA1-Digest: 7gQ6zuipa0x7bqAwWCLkVL/R6g8=
+
+Name: res/drawable/left.png
+SHA1-Digest: lmX0omeTGuIICSX+B36iAocoZ5k=
+
+Name: res/drawable/leftover.png
+SHA1-Digest: rRkJnpUYOLz5Qwe98t4bIYPr428=
+
+Name: res/drawable/blink.png
+SHA1-Digest: 8bKi5veR1dxG2VSUyh4BlvMENHM=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: kHXvhxuNtwv/IfUNyOPb9PSHK+Q=
+
+Name: res/drawable/rate.png
+SHA1-Digest: r3Opcwwqizq6wTWzPdbKWnocpSY=
+
+Name: classes.dex
+SHA1-Digest: zui8vyJ5sZ0qUpn08cZvBk+0S2A=
+
+Name: res/drawable/stop.png
+SHA1-Digest: OneWmPFuCG6jlNCj8lshsDDpAB4=
+
+Name: res/anim/activity_in.xml
+SHA1-Digest: dr5HsgybAUsdLT/erS3bFa+pBfw=
+
+Name: res/layout/color_picker.xml
+SHA1-Digest: svAK4f/i1Ew7wmO++dzt7ynfiC0=
+
+Name: res/drawable-hdpi-v4/btn_close.png
+SHA1-Digest: ELava6FcDv/XWdkyTlN+jMe58M8=
+
+Name: res/drawable/textcolor.png
+SHA1-Digest: sEQw/7o521bEdOv9HzAqGAJG4Yc=
+
+Name: res/layout/activity_start.xml
+SHA1-Digest: F/3pKmR5sA4ju6VmqW1+ueJrIUI=
+
+Name: res/drawable/blinkover.png
+SHA1-Digest: pLVt8cqzW/1hxXkACQBeOFbL4zc=
+
+Name: res/layout/activity_showad.xml
+SHA1-Digest: noFqYhGWV1zrkOn71Z5EGdJLgtk=
+
+Name: assets/back22.png
+SHA1-Digest: O4hxwpo4L5eISAoXkIcXW+TCVdo=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: hqxGlrNs14MNmLSNFuvbJBRPs5k=
+
+Name: res/drawable/right.png
+SHA1-Digest: POHdIvFD7Om7xV33W5SYzLIhUL4=
+
